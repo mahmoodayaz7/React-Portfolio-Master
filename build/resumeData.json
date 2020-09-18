@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Mehmood Ayaz",
+    "occupation": "MERN & Full-Stack Developer (ASP.net/C#/SQL Server)",
+    "description": "Currently Working at Megatech Trackers Pvt. Ltd. as Manager MIS",
+    "image": "2x2-3.jpg",
+    "bio": "A highly motivated and energetic developer and Team Leader with a creative mind that allows us to find, address, plan, and solve the technical problems with an appropriate solution. I've over 15 years of experience in developing desktop applications, web applications, web services, web components, software's using .net technologies. I've successfully completed Website development projects, API integration projects, Payment gateway integration projects, Web API projects, Windows Desktop Softwares. Whether it's a responsive website you need or you need web services for your mobile application or you want to integrate third-party API, I'm here to provide customized solutions for all your website/software development needs.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mahmoodayaz7@gmail.com",
+    "phone": "+92 345 2200574",
+    "address": {
+      "street": "43 H/A PECHS. Block 6",
+      "city": "Karachi",
+      "state": "PK",
+      "zip": "75660"
+    },
+    "website": "https://asaanerp.com",
+    "resumedownload": "https://drive.google.com/drive/u/0/folders/14jNA-isf3XKv28-8m_80VT6wHjzf7CFi",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mehmood.ayaz.31149",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mehmood-ayaz-5104281a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mehmood.ayaz/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mahmoodayaz7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm experienced in ASP.net, C#, VB 6.0, VB.Net, MVC, JavaScript, JQuery, SQL Server, MYSQL, Crystal Reports, MERN any API integration and development, and payment gateway integration.",
+    "education": [
+      {
+        "school": "Institute of Business Administration",
+        "degree": "Certificate in SAP ERP Financials",
+        "graduated": "January 2017",
+        "description": "SAP ERP ECC 6.0"
+      },
+      {
+        "school": "Govt Commerce and Economics College",
+        "degree": "B.Com",
+        "graduated": "April 2004",
+        "description": "Commerce"
+      },
+      {
+        "school": "Aptech Computer Education",
+        "degree": "(ACCP) Aptech Computer Certified Professional",
+        "graduated": "August 2005",
+        "description": "Computer Fundamentals, Ms Office Automation, Visual Programming, Web Site Designing, Database Administration in SQL Server, Visual Studio .NET and Crystals Reports."
+      }
+    ],
+    "work": [
+      {
+        "company": "Megatech Trackers Pvt. Ltd.",
+        "title": "Manager MIS",
+        "years": "April 2012 - Present",
+        "description": "Delivered a web-based ERP database system that integrated information in the Tracking services and Finance data systems, providing reporting and analysis tools for use in business developments."
+      },
+      {
+        "company": "EDP Services (Pvt) Ltd",
+        "title": "Team Lead (Sr. Software Engineer)",
+        "years": "Nov 2011 - March 2012",
+        "description": "Building SLA, WBS, Project Management. Developed ERP and Deployed at Client"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL Server Management & Queries",
+        "level": "95%"
+      },
+      {
+        "name": "ASP.Net, C# & Reporting",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Expense Tracker App",
+        "category": "Expense Tracker App built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "ExpenseTracker.png",
+        "url": "https://expensetrackerreactapp.herokuapp.com/"
+      },
+      {
+        "title": "MERN Stack Covid-19 Corona Tracker App",
+        "category": "Covid-19 Tracker built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "CoronaTracker.png",
+        "url": "http://covid19app-mehmood.surge.sh/"
+      },
+      {
+        "title": "Fleet Management Solution",
+        "category": "Fleet Management built with Full-Stack (ASP.NET, C#, JavaScript, SQL)",
+        "image": "FleetManagement.png",
+        "url": "https://megatechfleetmanagement.com"
+      },
+      {
+        "title": "ERP (Enterprise Resource Planning)",
+        "category": "ERP built with Full-Stack (ASP.NET, C#, JavaScript, SQL)",
+        "image": "ERP.png",
+        "url": "https://asaanerp.com"
+      },
+      {
+        "title": "Ecommerce Website Wordpress",
+        "category": "Ecommerce Website built with Wordpress WOO-Commerce",
+        "image": "Ecommerce.png",
+        "url": "https://batoolomar.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mehmood is fully capable of wearing a lot of hats. Being very organized and methodical in solving problems effectively, Mehmood's ability has served us well - from his time of hire to the acquisition of our company. Had the acquisition not taken place, I am confident Mehmood would've continued to escalate his service and management ability - providing increasing value to the company. Mehmood sought new ways to improve systems and increase efficiency in the company. Whether in coordinating email blasts or designing software UI, He has been diligent, very effective in his work, and a great value to our company. As his Colleague, I give Mehmood my strong professional endorsement, and believe he will be an asset to your business.",
+        "user": "Yasir Iqbal - Assistant Manager H.R.M.S at Dr. Ziauddin Group of Hospitals"
+      },
+      {
+        "text": "I highly recommend Mr. Mehmood Ayaz as a candidate for employment. Mr. Mehmood Ayaz has excellent communication skills. In addition, he is extremely organized, reliable and computer literate. Mehmood can work independently and is able to follow through to ensure that the job gets done. He is flexible and willing to work on any project that is assigned to him. Mehmood was quick to volunteer to assist in other areas of company operations, as well. Mehmood would be a tremendous asset for your company and has my highest recommendation. If you have any further questions with regard to his background or qualifications, please do not hesitate to call me.",
+        "user": "Muhammad Haroon Khan - AVP/Unit Head IS Governance at Confidential"
+      },
+      {
+        "text": "Mehmood worked remotely for our not-for-profit organization. He had to work independantly and it was not always easy for him to be kept in the loop on projects. He worked hard, efficiently and with a huge amount of flexibility to fit into our changing needs. I would recommend him highly. Deb COO Children Of Tomorrow",
+        "user": "Deb Ryan - Pres/CEO, Bonell Ryan Inc. Exec Search - Payments, Consumer Lending and Fintech"
+      }
+    ]
+  }
+}
